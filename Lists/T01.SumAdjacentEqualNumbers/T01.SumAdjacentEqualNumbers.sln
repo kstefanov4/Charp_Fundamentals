@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListOfProducts", "..\ListOf
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveNegativesAndReverse", "..\RemoveNegativesAndReverse\RemoveNegativesAndReverse.csproj", "{65D13574-AC7C-41F7-A024-A6A3ABA8ACE8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListManipulationBasics", "..\ListManipulationBasics\ListManipulationBasics.csproj", "{2A52FB44-110C-4C3B-A528-76FAB2C12BAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TakeSkipRope", "..\TakeSkipRope\TakeSkipRope.csproj", "{5B7F8C7A-8712-4352-B563-565D17C48716}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{65D13574-AC7C-41F7-A024-A6A3ABA8ACE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65D13574-AC7C-41F7-A024-A6A3ABA8ACE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65D13574-AC7C-41F7-A024-A6A3ABA8ACE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A52FB44-110C-4C3B-A528-76FAB2C12BAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A52FB44-110C-4C3B-A528-76FAB2C12BAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A52FB44-110C-4C3B-A528-76FAB2C12BAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A52FB44-110C-4C3B-A528-76FAB2C12BAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B7F8C7A-8712-4352-B563-565D17C48716}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B7F8C7A-8712-4352-B563-565D17C48716}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B7F8C7A-8712-4352-B563-565D17C48716}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B7F8C7A-8712-4352-B563-565D17C48716}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
