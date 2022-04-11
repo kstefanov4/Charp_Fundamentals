@@ -1,12 +1,33 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace CountRealNumbers
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            double[] numbers = Console.ReadLine().Split().Select(double.Parse).ToArray();
+
+            SortedDictionary<double, int> numDic = new SortedDictionary<double, int>();
+
+            foreach (var number in numbers)
+            {
+                if (!numDic.ContainsKey(number))
+                {
+                    numDic[number] = 1;
+                }
+                else
+                {
+                    numDic[number]++;
+                }
+            }
+
+            foreach (var num in numDic)
+            {
+                Console.WriteLine($"{num.Key} -> {num.Value}");
+            }
         }
     }
 }
