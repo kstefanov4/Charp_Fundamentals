@@ -1,0 +1,14 @@
+C:\Users\kstefanov\source\repos\CharacterMultiplier\bin\Debug\netcoreapp3.1\CharacterMultiplier.exe
+C:\Users\kstefanov\source\repos\CharacterMultiplier\bin\Debug\netcoreapp3.1\CharacterMultiplier.deps.json
+C:\Users\kstefanov\source\repos\CharacterMultiplier\bin\Debug\netcoreapp3.1\CharacterMultiplier.runtimeconfig.json
+C:\Users\kstefanov\source\repos\CharacterMultiplier\bin\Debug\netcoreapp3.1\CharacterMultiplier.runtimeconfig.dev.json
+C:\Users\kstefanov\source\repos\CharacterMultiplier\bin\Debug\netcoreapp3.1\CharacterMultiplier.dll
+C:\Users\kstefanov\source\repos\CharacterMultiplier\bin\Debug\netcoreapp3.1\CharacterMultiplier.pdb
+C:\Users\kstefanov\source\repos\CharacterMultiplier\obj\Debug\netcoreapp3.1\CharacterMultiplier.csproj.AssemblyReference.cache
+C:\Users\kstefanov\source\repos\CharacterMultiplier\obj\Debug\netcoreapp3.1\CharacterMultiplier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kstefanov\source\repos\CharacterMultiplier\obj\Debug\netcoreapp3.1\CharacterMultiplier.AssemblyInfoInputs.cache
+C:\Users\kstefanov\source\repos\CharacterMultiplier\obj\Debug\netcoreapp3.1\CharacterMultiplier.AssemblyInfo.cs
+C:\Users\kstefanov\source\repos\CharacterMultiplier\obj\Debug\netcoreapp3.1\CharacterMultiplier.csproj.CoreCompileInputs.cache
+C:\Users\kstefanov\source\repos\CharacterMultiplier\obj\Debug\netcoreapp3.1\CharacterMultiplier.dll
+C:\Users\kstefanov\source\repos\CharacterMultiplier\obj\Debug\netcoreapp3.1\CharacterMultiplier.pdb
+C:\Users\kstefanov\source\repos\CharacterMultiplier\obj\Debug\netcoreapp3.1\CharacterMultiplier.genruntimeconfig.cache
