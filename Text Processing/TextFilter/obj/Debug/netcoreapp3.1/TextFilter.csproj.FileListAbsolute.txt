@@ -1,0 +1,14 @@
+C:\Users\kstefanov\source\repos\TextFilter\bin\Debug\netcoreapp3.1\TextFilter.exe
+C:\Users\kstefanov\source\repos\TextFilter\bin\Debug\netcoreapp3.1\TextFilter.deps.json
+C:\Users\kstefanov\source\repos\TextFilter\bin\Debug\netcoreapp3.1\TextFilter.runtimeconfig.json
+C:\Users\kstefanov\source\repos\TextFilter\bin\Debug\netcoreapp3.1\TextFilter.runtimeconfig.dev.json
+C:\Users\kstefanov\source\repos\TextFilter\bin\Debug\netcoreapp3.1\TextFilter.dll
+C:\Users\kstefanov\source\repos\TextFilter\bin\Debug\netcoreapp3.1\TextFilter.pdb
+C:\Users\kstefanov\source\repos\TextFilter\obj\Debug\netcoreapp3.1\TextFilter.csproj.AssemblyReference.cache
+C:\Users\kstefanov\source\repos\TextFilter\obj\Debug\netcoreapp3.1\TextFilter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kstefanov\source\repos\TextFilter\obj\Debug\netcoreapp3.1\TextFilter.AssemblyInfoInputs.cache
+C:\Users\kstefanov\source\repos\TextFilter\obj\Debug\netcoreapp3.1\TextFilter.AssemblyInfo.cs
+C:\Users\kstefanov\source\repos\TextFilter\obj\Debug\netcoreapp3.1\TextFilter.csproj.CoreCompileInputs.cache
+C:\Users\kstefanov\source\repos\TextFilter\obj\Debug\netcoreapp3.1\TextFilter.dll
+C:\Users\kstefanov\source\repos\TextFilter\obj\Debug\netcoreapp3.1\TextFilter.pdb
+C:\Users\kstefanov\source\repos\TextFilter\obj\Debug\netcoreapp3.1\TextFilter.genruntimeconfig.cache
