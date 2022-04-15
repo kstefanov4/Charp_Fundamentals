@@ -101,7 +101,7 @@ namespace Teamwork_Projects
             }
 
             Console.WriteLine("Teams to disband:");
-            foreach (Team team in teamToDisband.OrderBy(x=>x))
+            foreach (Team team in teamToDisband.OrderBy(x=>x.TeamName))
             {
                 Console.WriteLine($"{team.TeamName}");
             }
