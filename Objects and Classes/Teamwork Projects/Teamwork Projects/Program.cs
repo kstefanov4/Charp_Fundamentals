@@ -90,7 +90,7 @@ namespace Teamwork_Projects
             List<Team> teamToDisband = teamList.Where(team => team.TeamMembers.Count == 0).ToList(); 
             List<Team> teamsWithMembers = teamList.Where(team => team.TeamMembers.Count > 0).ToList();
             
-            foreach (Team team in teamsWithMembers.OrderByDescending(x => x.TeamMembers.Count).ThenBy(x=>x))
+            foreach (Team team in teamsWithMembers.OrderByDescending(x => x.TeamMembers.Count).ThenBy(x=>x.TeamName))
             {
                 Console.WriteLine($"{team.TeamName}");
                 Console.WriteLine($"- {team.CreatorName}");
