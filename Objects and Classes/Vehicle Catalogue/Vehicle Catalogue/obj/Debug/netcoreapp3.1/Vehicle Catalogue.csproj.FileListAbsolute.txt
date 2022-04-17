@@ -1,0 +1,14 @@
+C:\GitHub\Csharp_Fundamentals\Objects and Classes\Vehicle Catalogue\Vehicle Catalogue\bin\Debug\netcoreapp3.1\Vehicle Catalogue.exe
+C:\GitHub\Csharp_Fundamentals\Objects and Classes\Vehicle Catalogue\Vehicle Catalogue\bin\Debug\netcoreapp3.1\Vehicle Catalogue.deps.json
+C:\GitHub\Csharp_Fundamentals\Objects and Classes\Vehicle Catalogue\Vehicle Catalogue\bin\Debug\netcoreapp3.1\Vehicle Catalogue.runtimeconfig.json
+C:\GitHub\Csharp_Fundamentals\Objects and Classes\Vehicle Catalogue\Vehicle Catalogue\bin\Debug\netcoreapp3.1\Vehicle Catalogue.runtimeconfig.dev.json
+C:\GitHub\Csharp_Fundamentals\Objects and Classes\Vehicle Catalogue\Vehicle Catalogue\bin\Debug\netcoreapp3.1\Vehicle Catalogue.dll
+C:\GitHub\Csharp_Fundamentals\Objects and Classes\Vehicle Catalogue\Vehicle Catalogue\bin\Debug\netcoreapp3.1\Vehicle Catalogue.pdb
+C:\GitHub\Csharp_Fundamentals\Objects and Classes\Vehicle Catalogue\Vehicle Catalogue\obj\Debug\netcoreapp3.1\Vehicle Catalogue.csproj.AssemblyReference.cache
+C:\GitHub\Csharp_Fundamentals\Objects and Classes\Vehicle Catalogue\Vehicle Catalogue\obj\Debug\netcoreapp3.1\Vehicle Catalogue.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\Csharp_Fundamentals\Objects and Classes\Vehicle Catalogue\Vehicle Catalogue\obj\Debug\netcoreapp3.1\Vehicle Catalogue.AssemblyInfoInputs.cache
+C:\GitHub\Csharp_Fundamentals\Objects and Classes\Vehicle Catalogue\Vehicle Catalogue\obj\Debug\netcoreapp3.1\Vehicle Catalogue.AssemblyInfo.cs
+C:\GitHub\Csharp_Fundamentals\Objects and Classes\Vehicle Catalogue\Vehicle Catalogue\obj\Debug\netcoreapp3.1\Vehicle Catalogue.csproj.CoreCompileInputs.cache
+C:\GitHub\Csharp_Fundamentals\Objects and Classes\Vehicle Catalogue\Vehicle Catalogue\obj\Debug\netcoreapp3.1\Vehicle Catalogue.dll
+C:\GitHub\Csharp_Fundamentals\Objects and Classes\Vehicle Catalogue\Vehicle Catalogue\obj\Debug\netcoreapp3.1\Vehicle Catalogue.pdb
+C:\GitHub\Csharp_Fundamentals\Objects and Classes\Vehicle Catalogue\Vehicle Catalogue\obj\Debug\netcoreapp3.1\Vehicle Catalogue.genruntimeconfig.cache
